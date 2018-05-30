@@ -1,0 +1,132 @@
+/*
+ Theme Name:   Sydney child
+ Theme URI:    http://wordpress.org/themes/sydney
+ Description:  Sydney Child Theme
+ Author:       Peter
+ Author URI:   http://phsdesign.dk
+ Template:     sydney
+ Version:      1.0.0
+*/
+
+* {
+	font-family: sans-serif !important;
+		
+	}
+
+.flash{
+	overflow: hidden;
+	
+}
+
+
+.sow-slider-image-wrapper h1,p{
+	text-shadow: 2px 2px 2px black !important;
+	
+}
+.venstre-knapperow-icon-placement-leftow-button-hover span:hover{
+	background-color: black !important;
+	
+	
+}
+
+.overlay-knap {
+	margin-left: 35%;
+	
+	
+}
+.overlay-knap span:hover {
+	overflow-style: visible !important;
+	color: black !important;
+	visibility: visible;
+	
+}
+
+
+.ramme1{
+	border-bottom-color: black !important;
+	border-top-color: black !important;
+	border-left-color: black !important;
+	border-right-color: black !important;
+	
+}
+
+.ramme{
+	border-bottom-color: black !important;
+	border-top-color: black !important;
+	border-left-color: black !important;
+}
+
+
+.site-header {
+	background-color: white !important;
+}
+
+
+.site-logo {
+	margin-top: 8px;
+	margin-left: -190px;
+	
+}
+
+#header {
+	background: white !important;
+}
+
+.start-knapper {
+	border-color: #FFF !important;
+}
+
+.widget-title h3 {
+	text-align: left !important;
+	color: red !important;
+}
+
+.disable-parallax{
+	background-attachment: scroll !important;
+	background-position: center !important;
+}
+.header-image {
+	width: 100%;
+}
+.overlay {
+	
+	width: 70%;
+	margin-top: 15%;
+	margin-left: 15%;
+	height: 70% !important;
+}
+
+.venstre-knapper {
+	background: transparent !important;
+	border-color: #FFF !important;
+	border-radius: 25px !important;
+}
+
+.venstre-knapper:hover {
+	background: white !important;
+	color: black !important;
+}
+
+.title-alignment {
+	text-align: left;
+}
+
+.venstre-knapper2 {
+	background: transparent !important;
+	border-color: #FFF !important;
+	border-radius: 25px !important;
+}
+
+.venstre-knapper2:hover {
+	background: gray !important;
+	color: black !important;
+}
+.panel-grid-cell a:hover { 
+   color: white !important;
+}
+#banner3 {
+	overflow: hidden !important;
+}
+.banner2 {
+	overflow: hidden !important;
+}
